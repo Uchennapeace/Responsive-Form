@@ -32,14 +32,14 @@
   
   body {
     background-color: #ff7a7a;
-    background-image: url("images/bg-intro-desktop.PNG");
+    background-image: url("images/bg-intro-desktop.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: right;
   }
   @media (max-width: 500px) {
     body {
-      background-image: url("images/bg-intro-mobile.PNG");
+      background-image: url("images/bg-intro-mobile.png");
       background-position: top;
     }
   }
